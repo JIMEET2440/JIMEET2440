@@ -11,8 +11,8 @@ Hi there, I am Jimeet Shastri, a Computer Science student at IIT Jodhpur.<br><br
 `C++` · `C` · `CSS` · `Dart` · `Kotlin` · `Markdown` · `JavaScript` · `Python` · `TypeScript`
 
 ### 📦 Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,firebase,fastapi,django,angular,nextjs,tailwind,socketio" /><br>
-`Flutter` · `React` · `Node.js` · `Express.js` · `Firebase` · `FastAPI` · `Django` · `Angular` · `Next.js` · `TailwindCSS` · `Socket.io`
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,firebase,fastapi,nextjs,tailwind,socketio" /><br>
+`Flutter` · `React` · `Node.js` · `Express.js` · `Firebase` · `FastAPI` · `Next.js` · `TailwindCSS` · `Socket.io`
 
 ### 🗄️ Databases & Infrastructure  
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,gcp,mysql,sqlite,neo4j,vercel,render" /><br>
@@ -23,8 +23,8 @@ Hi there, I am Jimeet Shastri, a Computer Science student at IIT Jodhpur.<br><br
 `NumPy` · `Pandas` · `scikit-learn` · `PyTorch` · `Matplotlib`
 
 ### 🎨 Design  
-<img src="https://skillicons.dev/icons?i=figma,canva,adobe" /><br>
-`Figma` · `Canva` · `Adobe`
+<img src="https://skillicons.dev/icons?i=figma,canva" /><br>
+`Figma` · `Canva`
 
 ### 🔧 Dev Tools  
 <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,playwright,puppeteer,gradle,cmake" /><br>
