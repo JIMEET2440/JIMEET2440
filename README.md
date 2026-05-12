@@ -11,12 +11,12 @@ Hi there, I am Jimeet Shastri, a Computer Science student at IIT Jodhpur.<br><br
 `C++` · `C` · `CSS` · `Dart` · `Kotlin` · `Markdown` · `JavaScript` · `Python` · `TypeScript`
 
 ### 📦 Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,firebase,fastapi,nextjs,tailwind,socketio" /><br>
-`Flutter` · `React` · `Node.js` · `Express.js` · `Firebase` · `FastAPI` · `Next.js` · `TailwindCSS` · `Socket.io`
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,firebase,fastapi,nextjs,tailwind" /><br>
+`Flutter` · `React` · `Node.js` · `Express.js` · `Firebase` · `FastAPI` · `Next.js` · `TailwindCSS`
 
 ### 🗄️ Databases & Infrastructure  
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,gcp,mysql,sqlite,neo4j,vercel,render" /><br>
-`MongoDB` · `PostgreSQL` · `Docker` · `Google Cloud` · `MySQL` · `SQLite` · `Neo4j` · `Vercel` · `Render`
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,gcp,mysql,sqlite,vercel,render" /><br>
+`MongoDB` · `PostgreSQL` · `Docker` · `Google Cloud` · `MySQL` · `SQLite` · `Vercel` · `Render`
 
 ### 🧠 ML & Data  
 <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,pytorch,matplotlib" /><br>
