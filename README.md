@@ -15,19 +15,23 @@ Hi there, I am Jimeet Shastri, a Computer Science student at IIT Jodhpur.<br><br
 `Flutter` · `React` · `Node.js` · `Express.js` · `Firebase` · `FastAPI` · `Next.js` · `TailwindCSS`
 
 ### 🗄️ Databases & Infrastructure  
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,gcp,mysql,sqlite,vercel,render" /><br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,gcp,mysql,sqlite,vercel" /><br>
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)<br>
 `MongoDB` · `PostgreSQL` · `Docker` · `Google Cloud` · `MySQL` · `SQLite` · `Vercel` · `Render`
 
 ### 🧠 ML & Data  
-<img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,pytorch,matplotlib" /><br>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" /><br>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)<br>
 `NumPy` · `Pandas` · `scikit-learn` · `PyTorch` · `Matplotlib`
 
 ### 🎨 Design  
-<img src="https://skillicons.dev/icons?i=figma,canva" /><br>
+<img src="https://skillicons.dev/icons?i=figma" /><br>
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)<br>
 `Figma` · `Canva`
 
 ### 🔧 Dev Tools  
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,playwright,gradle,cmake" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,gradle,cmake" /><br>
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=black)<br>
 `Git` · `GitHub` · `Postman` · `Linux` · `VS Code` · `Playwright` · `Puppeteer` · `Gradle` · `CMake`
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=JIMEET2440&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
