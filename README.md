@@ -33,6 +33,13 @@ Hi there, I am Jimeet Shastri, a Computer Science student at IIT Jodhpur.<br><br
 <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,gradle,cmake" /><br>
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Puppeteer](https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg)<br>
 `Git` · `GitHub` · `Postman` · `Linux` · `VS Code` · `Playwright` · `Puppeteer` · `Gradle` · `CMake`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JIMEET2440/JIMEET2440/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JIMEET2440/JIMEET2440/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JIMEET2440/JIMEET2440/output/snake.svg" />
+</picture>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=JIMEET2440&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=JIMEET2440&theme=merko&hide_border=false)<br/>
