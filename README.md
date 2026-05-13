@@ -27,7 +27,7 @@ Hi there, I am Jimeet Shastri, a Computer Science student at IIT Jodhpur.<br><br
 `Figma` · `Canva`
 
 ### 🔧 Dev Tools  
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,playwright,puppeteer,gradle,cmake" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,playwright,gradle,cmake" /><br>
 `Git` · `GitHub` · `Postman` · `Linux` · `VS Code` · `Playwright` · `Puppeteer` · `Gradle` · `CMake`
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=JIMEET2440&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
