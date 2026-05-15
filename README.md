@@ -7,8 +7,8 @@ Hi there, I am Jimeet Shastri, a Computer Science student at IIT Jodhpur.<br><br
 
 # 💻 Tech Stack:
 ### 🧑‍💻 Languages  
-<img src="https://skillicons.dev/icons?i=cpp,c,css,dart,kotlin,md,js,python,ts" /><br>
-`C++` · `C` · `CSS` · `Dart` · `Kotlin` · `Markdown` · `JavaScript` · `Python` · `TypeScript`
+<img src="https://skillicons.dev/icons?i=cpp,c,css,dart,md,js,python,ts" /><br>
+`C++` · `C` · `CSS` · `Dart` · `Markdown` · `JavaScript` · `Python` · `TypeScript`
 
 ### 📦 Frameworks & Libraries  
 <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,firebase,fastapi,nextjs,tailwind" /><br>
@@ -21,18 +21,17 @@ Hi there, I am Jimeet Shastri, a Computer Science student at IIT Jodhpur.<br><br
 
 ### 🧠 ML & Data  
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn" /><br>
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)<br>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)<br>
 `NumPy` · `Pandas` · `scikit-learn` · `PyTorch` · `Matplotlib`
 
 ### 🎨 Design  
-<img src="https://skillicons.dev/icons?i=figma" /><br>
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)<br>
-`Figma` · `Canva`
+<img src="https://skillicons.dev/icons?i=figma" /><br><br>
+`Figma` 
 
 ### 🔧 Dev Tools  
 <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,gradle,cmake" /><br>
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Puppeteer](https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg)<br>
-`Git` · `GitHub` · `Postman` · `Linux` · `VS Code` · `Playwright` · `Puppeteer` · `Gradle` · `CMake`
+<br>
+`Git` · `GitHub` · `Postman` · `Linux` · `VS Code` · `Gradle` · `CMake`
 
 # Snake game
 <picture>
