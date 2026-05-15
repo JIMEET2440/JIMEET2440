@@ -1,4 +1,9 @@
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=552&backgroundColor=%23000000&backgroundOpacity=0&cursorStyle=underline&deletionBehavior=clear&lines=%5B%7B%22text%22%3A%22Hello%2C%5CnI%27m+Jimeet+Shastri%5Cn%22%2C%22color%22%3A%22%23f9f06b%22%2C%22typingSpeed%22%3A0.14285714285714285%2C%22lineHeight%22%3A2%7D%2C%7B%22text%22%3A%22CSE+undergraduate+%5CnStudent+at+IIT+Jodhpur%5Cn%22%2C%22color%22%3A%22%23f9f06b%22%2C%22typingSpeed%22%3A0.1%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://typingsvg.vercel.app/api/svg?width=552&backgroundColor=%23000000&backgroundOpacity=0&border=false&cursorStyle=underline&deletionBehavior=clear&lines=%5B%7B%22text%22%3A%22Hello%2C%5CnI%27m+Jimeet+Shastri%5Cn%22%2C%22color%22%3A%22%23f9f06b%22%2C%22typingSpeed%22%3A0.14285714285714285%2C%22lineHeight%22%3A2%7D%2C%7B%22text%22%3A%22CSE+undergraduate+%5CnStudent+at+IIT+Jodhpur%5Cn%22%2C%22color%22%3A%22%23f9f06b%22%2C%22typingSpeed%22%3A0.1%7D%5D" />
+  <source media="(prefers-color-scheme: light)" srcset="[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=552&backgroundColor=%23000000&backgroundOpacity=0&border=false&cursorStyle=underline&deletionBehavior=clear&lines=%5B%7B%22text%22%3A%22Hello%2C%5CnI%27m+Jimeet+Shastri%5Cn%22%2C%22typingSpeed%22%3A0.14285714285714285%2C%22lineHeight%22%3A2%7D%2C%7B%22text%22%3A%22CSE+undergraduate+%5CnStudent+at+IIT+Jodhpur%5Cn%22%2C%22typingSpeed%22%3A0.1%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)" />
+  
+  <img src="https://typingsvg.vercel.app/api/svg?width=552&backgroundColor=%23000000&backgroundOpacity=0&border=false&cursorStyle=underline&deletionBehavior=clear&lines=%5B%7B%22text%22%3A%22Hello%2C%5CnI%27m+Jimeet+Shastri%5Cn%22%2C%22color%22%3A%22%23f9f06b%22%2C%22typingSpeed%22%3A0.14285714285714285%2C%22lineHeight%22%3A2%7D%2C%7B%22text%22%3A%22CSE+undergraduate+%5CnStudent+at+IIT+Jodhpur%5Cn%22%2C%22color%22%3A%22%23f9f06b%22%2C%22typingSpeed%22%3A0.1%7D%5D" alt="Typing SVG" />
+</picture>
 
 
 # 💫 About Me:
