@@ -4,7 +4,7 @@ Hi there, I am Jimeet Shastri, a Computer Science student at IIT Jodhpur.<br><br
 
 ## 🌐 Socials:
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/jimeet-shastri-034761327"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/jimeet-shastri-034761327"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:jimeetshastri15@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
 </p>
 
