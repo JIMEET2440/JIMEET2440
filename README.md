@@ -34,10 +34,13 @@ Hi there, I am Jimeet Shastri, a Computer Science student at IIT Jodhpur.<br><br
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Puppeteer](https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg)<br>
 `Git` · `GitHub` · `Postman` · `Linux` · `VS Code` · `Playwright` · `Puppeteer` · `Gradle` · `CMake`
 
+# Snake game
+<picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JIMEET2440/JIMEET2440/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JIMEET2440/JIMEET2440/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JIMEET2440/JIMEET2440/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JIMEET2440/JIMEET2440/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JIMEET2440/JIMEET2440/output/github-snake.svg" />
+</picture>
 </picture>
 
 # 📊 GitHub Stats:
