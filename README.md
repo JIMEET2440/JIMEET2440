@@ -3,7 +3,10 @@ Hi there, I am Jimeet Shastri, a Computer Science student at IIT Jodhpur.<br><br
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jimeet-shastri-034761327) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jimeetshastri15@gmail.com) 
+<p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/jimeet-shastri-034761327"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:jimeetshastri15@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
+</p>
 
 # 💻 Tech Stack:
 ### 🧑‍💻 Languages  
@@ -20,8 +23,8 @@ Hi there, I am Jimeet Shastri, a Computer Science student at IIT Jodhpur.<br><br
 `PostgreSQL` · `Docker` · `Google Cloud` · `MySQL` · `SQLite` · `Vercel` 
 
 ### 🧠 ML & Data  
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn" /><br><br>
-`NumPy` · `Pandas` · `scikit-learn` 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)<br>
+`NumPy` · `Pandas` · `scikit-learn`
 
 ### 🔧 Dev Tools  
 <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,gradle,cmake,figma" /><br>
