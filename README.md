@@ -7,31 +7,26 @@ Hi there, I am Jimeet Shastri, a Computer Science student at IIT Jodhpur.<br><br
 
 # 💻 Tech Stack:
 ### 🧑‍💻 Languages  
-<img src="https://skillicons.dev/icons?i=cpp,c,css,dart,md,js,python,ts" /><br>
-`C++` · `C` · `CSS` · `Dart` · `Markdown` · `JavaScript` · `Python` · `TypeScript`
+<img src="https://skillicons.dev/icons?i=cpp,c,css,dart,js,python,ts" /><br>
+`C++` · `C` · `CSS` · `Dart` · `JavaScript` · `Python` · `TypeScript`
 
 ### 📦 Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,firebase,fastapi,nextjs,tailwind" /><br>
-`Flutter` · `React` · `Node.js` · `Express.js` · `Firebase` · `FastAPI` · `Next.js` · `TailwindCSS`
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,firebase,fastapi,tailwind" /><br>
+`Flutter` · `React` · `Node.js` · `Firebase` · `FastAPI` · `TailwindCSS`
 
 ### 🗄️ Databases & Infrastructure  
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,gcp,mysql,sqlite,vercel" /><br>
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)<br>
-`MongoDB` · `PostgreSQL` · `Docker` · `Google Cloud` · `MySQL` · `SQLite` · `Vercel` · `Render`
+<img src="https://skillicons.dev/icons?i=postgres,docker,gcp,mysql,sqlite,vercel" /><br>
+<br>
+`PostgreSQL` · `Docker` · `Google Cloud` · `MySQL` · `SQLite` · `Vercel` 
 
 ### 🧠 ML & Data  
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn" /><br>
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)<br>
-`NumPy` · `Pandas` · `scikit-learn` · `PyTorch` · `Matplotlib`
-
-### 🎨 Design  
-<img src="https://skillicons.dev/icons?i=figma" /><br><br>
-`Figma` 
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" /><br><br>
+`NumPy` · `Pandas` · `scikit-learn` 
 
 ### 🔧 Dev Tools  
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,gradle,cmake" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,gradle,cmake,figma" /><br>
 <br>
-`Git` · `GitHub` · `Postman` · `Linux` · `VS Code` · `Gradle` · `CMake`
+`Git` · `GitHub` · `Postman` · `Linux` · `VS Code` · `Gradle` · `CMake` · `Figma`
 
 # Snake game
 <picture>
