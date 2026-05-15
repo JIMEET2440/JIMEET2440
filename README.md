@@ -23,8 +23,8 @@ Hi there, I am Jimeet Shastri, a Computer Science student at IIT Jodhpur.<br><br
 `PostgreSQL` · `Docker` · `Google Cloud` · `MySQL` · `SQLite` · `Vercel` 
 
 ### 🧠 ML & Data  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)<br>
-`NumPy` · `Pandas` · `scikit-learn` · `PyTorch` · `Matplotlib`
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)<br>
+`NumPy` · `Pandas` · `scikit-learn`
 
 ### 🔧 Dev Tools  
 <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,gradle,cmake,figma" /><br>
