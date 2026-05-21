@@ -39,7 +39,7 @@ Hi there, I am Jimeet Shastri, a Computer Science student at IIT Jodhpur.<br><br
 <br>
 `Git` · `GitHub` · `Postman` · `Linux` · `VS Code` · `Gradle` · `CMake` · `Figma`
 
-# Snake game
+# Snake Contribution
 <picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JIMEET2440/JIMEET2440/output/github-snake-dark.svg" />
