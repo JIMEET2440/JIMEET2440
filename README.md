@@ -49,8 +49,7 @@ Hi there, I am Jimeet Shastri, a Computer Science student at IIT Jodhpur.<br><br
 </picture>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=JIMEET2440&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=JIMEET2440&theme=merko&hide_border=false)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JIMEET2440&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
         
 ---
